@@ -1,0 +1,14 @@
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+D:\Хранилище для работы\vkc#\test\bin\Debug\net8.0\test.exe
+D:\Хранилище для работы\vkc#\test\bin\Debug\net8.0\test.deps.json
+D:\Хранилище для работы\vkc#\test\bin\Debug\net8.0\test.runtimeconfig.json
+D:\Хранилище для работы\vkc#\test\bin\Debug\net8.0\test.dll
+D:\Хранилище для работы\vkc#\test\bin\Debug\net8.0\test.pdb
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\test.dll
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\refint\test.dll
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\test.pdb
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+D:\Хранилище для работы\vkc#\test\obj\Debug\net8.0\ref\test.dll
